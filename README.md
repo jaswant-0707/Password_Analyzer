@@ -82,7 +82,7 @@ Password-Security-System/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/jaswant-0707/Password_Analyzer
 ```
 
 ### Step 2: Open the Project Directory
